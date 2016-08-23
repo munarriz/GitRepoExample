@@ -1,2 +1,2 @@
-This is a sample text file.
+Editing files locally is the best.
 Here's another line!
