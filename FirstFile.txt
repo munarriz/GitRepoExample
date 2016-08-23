@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Editing files locally is the best.
+=======
+Editing files on the server is the best.
+>>>>>>> 2ee8c259f8fcd6987c91fcd650acdd27ad41c488
 Here's another line!
